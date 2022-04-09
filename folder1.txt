@@ -1,0 +1,3 @@
+Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.
+
+As a company, GitHub makes money by selling hosted private code repositories, as well as other business-focused plans that make it easier for organizations to manage team members and security. We utilize Github extensively at Kinsta to manage and develop internal projects.
